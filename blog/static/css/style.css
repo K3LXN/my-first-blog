@@ -1,0 +1,43 @@
+#header{
+	background-color:#03BBD3;
+	width: 100%;
+	height:100px;
+}
+h1
+{text-align: center:
+}
+#leftside{
+	background-color:#FFB6FF;
+	width: 50%
+	height:700px;
+	float:left;
+	
+}
+#rightside{
+	background-color:lightscreen;
+	width: 50%
+	height:700px;
+	
+	float:right;
+}
+#clear{
+	clear:both;
+}
+
+#footer{
+	backround-color:#005F63;
+	width: 100%
+	height:100px;
+	vertical-align: middle;
+	
+}
+h3{text-align: center;
+color:white;
+}
+#underline{
+	text-decoration:line-trough;
+	
+}
+
+p{color:lightscreen;
+	}
